@@ -594,7 +594,7 @@ footer{
 
     .containt{
         top: 20%;
-        left: 12%;
+        left: 10%;
         padding-top: 10%;
         padding-left: 10%;
        
@@ -602,8 +602,8 @@ footer{
     }
 
     .containt h2{
-       
-         font-size: 120%; 
+       color: white;
+         font-size: 115%; 
          
     }
     
